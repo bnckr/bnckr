@@ -34,5 +34,13 @@ I love blending creativity with technology, solving challenges, and continuously
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bnckr)](https://git.io/streak-stats)  
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnckr&layout=donut-vertical)](https://github.com/bnckr/github-readme-stats)
+
+---
+
 Let's collaborate on making the web more beautiful and functional! Feel free to explore my repositories or connect with me here.  
 
