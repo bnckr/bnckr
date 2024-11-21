@@ -1,5 +1,3 @@
-# 👩‍💻 Bianca Delbage  
-
 ### 🌎 About Me  
 Hi! I'm Bianca Delbage, a passionate **Web Designer II**, **Web Developer**, and **UX/UI Enthusiast** based in **Brazil**.  
 I love blending creativity with technology, solving challenges, and continuously learning to improve user experiences.  
